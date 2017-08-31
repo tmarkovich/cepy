@@ -1,3 +1,25 @@
+The wrapper code is distributed under the Apache 2.0 license given below, while
+the original cephes code is distributed with the permission of the author,
+Stephen Moshier, with his original copyright as indicated by the email below.
+
+Delivered-To: thomasmarkovich@gmail.com
+Received: by 10.237.36.79 with SMTP id s15csp2466476qtc;
+        Sun, 30 Jul 2017 17:16:40 -0700 (PDT)
+Date: Sun, 30 Jul 2017 20:16:36 -0400 (EDT)
+From: Stephen Moshier <steve@moshier.net>
+To: Thomas Markovich <thomasmarkovich@gmail.com>
+Subject: Re: Cephes License Question
+
+Hi Thomas,
+
+I have looked up the Apache 2 license and it seems acceptable.  You might
+display the original copyright and say something to the effect that you
+are including the material in your work by permission of the author.
+
+Best wishes,
+Steve
+
+===========================================================
 
                                  Apache License
                            Version 2.0, January 2004
